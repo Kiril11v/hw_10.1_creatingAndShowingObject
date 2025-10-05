@@ -7,7 +7,7 @@ const user = { // object
     phoneNumber: +480123456789,
     city: 'Warsaw',
     hobby: 'football',
-    mail: 'blablabla@gmail.com',
+    mail: 'blablakok@gmail.com',
 
 showInfo() { // method(function) of object
     console.log(`My name is ${this.name}`);
