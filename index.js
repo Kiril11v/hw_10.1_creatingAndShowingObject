@@ -2,7 +2,7 @@
 
 
 const user = { // object
-    name: 'Kiril',
+    name: 'Anima',
     age: 23,
     phoneNumber: +480123456789,
     city: 'Warsaw',
