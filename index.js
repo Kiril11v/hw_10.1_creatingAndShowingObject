@@ -6,7 +6,7 @@ const user = { // object
     age: 23,
     phoneNumber: +480123456789,
     city: 'Warsaw',
-    hobby: 'football',
+    hobby: 'tennis',
     mail: 'blablakok@gmail.com',
 
 showInfo() { // method(function) of object
